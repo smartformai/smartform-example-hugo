@@ -1,4 +1,4 @@
-# SmartForm + Hugo
+# Hugo contact form — Formspree alternative with AI spam filtering
 
 Wire a contact form to [SmartForm AI](https://usesmartform.com) from a Hugo site.
 
