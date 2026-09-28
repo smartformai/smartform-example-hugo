@@ -1,0 +1,4 @@
+baseURL      = "http://localhost:1313/"
+title        = "SmartForm + Hugo"
+[params]
+  smartformFormId = "f_replace_me"
